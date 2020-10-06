@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#res{
+    color:white;
+    font-size:30px;
+}
+#cel{
+    width:20%;
+    height:30px
+}
+#cel:hover{
+    background:#eee;
+}
+#pic {
+    width: 20vw;
+    height: 20wh;
+    border-radius: 60px;
+    margin-top: 0px;
+}
