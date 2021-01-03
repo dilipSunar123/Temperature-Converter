@@ -15,4 +15,4 @@ For contribution:
 5. Make changes to it.
 6. Now, create a pull request and add a meaning title of what you have done new to the site (description is optional).
 
-Keep Coding :)
+Happy Coding :)
